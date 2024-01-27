@@ -1,0 +1,136 @@
+Experiment,Topic,Metric,Value
+PCA/KMeans,Indian climate,c_v,0.5096501464487614
+PCA/KMeans,Indian climate,c_umass,-0.07042266240097125
+PCA/KMeans,Indian climate,c_npmi,0.04494850578755346
+PCA/KMeans,Indian defense,c_v,0.4990116458421238
+PCA/KMeans,Indian defense,c_umass,-0.08795691139446471
+PCA/KMeans,Indian defense,c_npmi,-0.0005323120231792341
+PCA/KMeans,Indian economy,c_v,0.4673309855513817
+PCA/KMeans,Indian economy,c_umass,-0.2091524765376691
+PCA/KMeans,Indian economy,c_npmi,-0.021960613050459696
+PCA/KMeans,Indian infra,c_v,0.4495183274249435
+PCA/KMeans,Indian infra,c_umass,-0.06161308271518024
+PCA/KMeans,Indian infra,c_npmi,0.016334679968941387
+PCA/KMeans,Combined,c_v,0.6858770428316306
+PCA/KMeans,Combined,c_umass,-0.07904695368371309
+PCA/KMeans,Combined,c_npmi,0.11377817520373874
+UMAP/KMeans,Indian climate,c_v,0.5028935149740285
+UMAP/KMeans,Indian climate,c_umass,-0.10297413762063869
+UMAP/KMeans,Indian climate,c_npmi,0.05290818648957929
+UMAP/KMeans,Indian defense,c_v,0.5056360389664708
+UMAP/KMeans,Indian defense,c_umass,-0.07255364071538445
+UMAP/KMeans,Indian defense,c_npmi,0.053704960738829834
+UMAP/KMeans,Indian economy,c_v,0.4679093287124568
+UMAP/KMeans,Indian economy,c_umass,-0.11673285246307642
+UMAP/KMeans,Indian economy,c_npmi,0.012256766782839676
+UMAP/KMeans,Indian infrastructure,c_v,0.47911039979413644
+UMAP/KMeans,Indian infrastructure,c_umass,-0.09919860346963232
+UMAP/KMeans,Indian infrastructure,c_npmi,0.04311638023110606
+UMAP/KMeans,Combined,c_v,0.6133727120353303
+UMAP/KMeans,Combined,c_umass,-0.04959930173429391
+UMAP/KMeans,Combined,c_npmi,0.09136249600991064
+SVD/KMeans,Indian climate,c_v,0.5237744205074734
+SVD/KMeans,Indian climate,c_umass,-0.09512193524364525
+SVD/KMeans,Indian climate,c_npmi,0.04418315020118339
+SVD/KMeans,Indian defense,c_v,0.5132033248786058
+SVD/KMeans,Indian defense,c_umass,-0.08282248783479353
+SVD/KMeans,Indian defense,c_npmi,0.0010346465448070146
+SVD/KMeans,Indian economy,c_v,0.47595910626544585
+SVD/KMeans,Indian economy,c_umass,-0.1021016706898976
+SVD/KMeans,Indian economy,c_npmi,0.01019935350365824
+SVD/KMeans,Indian infrastructure,c_v,0.4502331812879452
+SVD/KMeans,Indian infrastructure,c_umass,-0.06161308271518024
+SVD/KMeans,Indian infrastructure,c_npmi,0.016298475490411763
+SVD/KMeans,Combined,c_v,0.6860151676117541
+SVD/KMeans,Combined,c_umass,-0.08418137724341639
+SVD/KMeans,Combined,c_npmi,0.11373882858600044
+PCA/Agg,Indian climate,c_v,0.4672057148698059
+PCA/Agg,Indian climate,c_umass,-0.04998534618722981
+PCA/Agg,Indian climate,c_npmi,0.02260798824558984
+PCA/Agg,Indian defense,c_v,0.48155838795792566
+PCA/Agg,Indian defense,c_umass,-0.23569706126686993
+PCA/Agg,Indian defense,c_npmi,-0.01621497754641553
+PCA/Agg,Indian economy,c_v,0.4390417926174079
+PCA/Agg,Indian economy,c_umass,-0.02944765194845612
+PCA/Agg,Indian economy,c_npmi,0.028488868675726975
+PCA/Agg,Indian infra,c_v,0.4392026968651785
+PCA/Agg,Indian infra,c_umass,-0.05812321499211704
+PCA/Agg,Indian infra,c_npmi,0.01737655172734716
+PCA/Agg,Combined,c_v,0.588645445702318
+PCA/Agg,Combined,c_umass,-0.05715037003632887
+PCA/Agg,Combined,c_npmi,0.07725970641371604
+UMAP/Agg,Indian climate,c_v,0.5932545310767748
+UMAP/Agg,Indian climate,c_umass,-0.14181816975875297
+UMAP/Agg,Indian climate,c_npmi,0.0970748925472521
+UMAP/Agg,Indian defense,c_v,0.5003677458247546
+UMAP/Agg,Indian defense,c_umass,-0.08282248783476884
+UMAP/Agg,Indian defense,c_npmi,0.0497658740314799
+UMAP/Agg,Indian economy,c_v,0.4425929659800952
+UMAP/Agg,Indian economy,c_umass,-0.14201892580847184
+UMAP/Agg,Indian economy,c_npmi,-0.00669774323952933
+UMAP/Agg,Indian infrastructure,c_v,0.47200086202069674
+UMAP/Agg,Indian infrastructure,c_umass,-0.15993921925525673
+UMAP/Agg,Indian infrastructure,c_npmi,0.021718442753913766
+UMAP/Agg,Combined,c_v,0.6145624796918295
+UMAP/Agg,Combined,c_umass,-0.04533734510537863
+UMAP/Agg,Combined,c_npmi,0.09147198248393303
+SVD/Agg,Indian climate,c_v,0.5125060524456747
+SVD/Agg,Indian climate,c_umass,-0.03845798768417335
+SVD/Agg,Indian climate,c_npmi,0.04666379958403954
+SVD/Agg,Indian defense,c_v,0.46997954108840007
+SVD/Agg,Indian defense,c_umass,-0.02130978314353432
+SVD/Agg,Indian defense,c_npmi,-0.025967417100742764
+SVD/Agg,Indian economy,c_v,0.4947219789557013
+SVD/Agg,Indian economy,c_umass,-0.059381726375638516
+SVD/Agg,Indian economy,c_npmi,0.02118886547716431
+SVD/Agg,Indian infrastructure,c_v,0.44963151151285263
+SVD/Agg,Indian infrastructure,c_umass,-0.05850925944504307
+SVD/Agg,Indian infrastructure,c_npmi,0.03232039287259932
+SVD/Agg,Combined,c_v,0.6801069140527961
+SVD/Agg,Combined,c_umass,-0.14076041442511084
+SVD/Agg,Combined,c_npmi,0.11685829617934385
+PCA/HDBSCAN,Indian climate,c_v,0.655812912521334
+PCA/HDBSCAN,Indian climate,c_umass,-0.2563428673535533
+PCA/HDBSCAN,Indian climate,c_npmi,0.18853501537744358
+PCA/HDBSCAN,Indian defense,c_v,0.536795637490114
+PCA/HDBSCAN,Indian defense,c_umass,-0.2421903742351393
+PCA/HDBSCAN,Indian defense,c_npmi,0.08771717939491935
+PCA/HDBSCAN,Indian economy,c_v,0.4710545467984727
+PCA/HDBSCAN,Indian economy,c_umass,-0.05406201441327744
+PCA/HDBSCAN,Indian economy,c_npmi,0.0787686371816543
+PCA/HDBSCAN,Indian infra,c_v,0.5538369487263389
+PCA/HDBSCAN,Indian infra,c_umass,-0.0765878537524644
+PCA/HDBSCAN,Indian infra,c_npmi,0.09523328197325961
+PCA/HDBSCAN,Combined,c_v,0.5483273291722152
+PCA/HDBSCAN,Combined,c_umass,-0.1639232432797329
+PCA/HDBSCAN,Combined,c_npmi,0.054367818427161124
+UMAP/HDBSCAN,Indian climate,c_v,0.6449219513021909
+UMAP/HDBSCAN,Indian climate,c_umass,-0.4945322975468612
+UMAP/HDBSCAN,Indian climate,c_npmi,0.06353192993340127
+UMAP/HDBSCAN,Indian defense,c_v,0.5684914335493562
+UMAP/HDBSCAN,Indian defense,c_umass,-0.5201747429218035
+UMAP/HDBSCAN,Indian defense,c_npmi,-0.02689083833859979
+UMAP/HDBSCAN,Indian economy,c_v,0.5720483663026121
+UMAP/HDBSCAN,Indian economy,c_umass,-0.664322279038342
+UMAP/HDBSCAN,Indian economy,c_npmi,-0.020442091861312902
+UMAP/HDBSCAN,Indian infrastructure,c_v,0.5542002628475378
+UMAP/HDBSCAN,Indian infrastructure,c_umass,-0.47719124883145125
+UMAP/HDBSCAN,Indian infrastructure,c_npmi,0.017208648384517126
+UMAP/HDBSCAN,Combined,c_v,0.6462862043215376
+UMAP/HDBSCAN,Combined,c_umass,-0.036041342941853446
+UMAP/HDBSCAN,Combined,c_npmi,0.10593721455470693
+SVD/HDBSCAN,Indian climate,c_v,0.6600557139618333
+SVD/HDBSCAN,Indian climate,c_umass,-0.18063521435449706
+SVD/HDBSCAN,Indian climate,c_npmi,0.1836311090780496
+SVD/HDBSCAN,Indian defense,c_v,0.5392192726582603
+SVD/HDBSCAN,Indian defense,c_umass,-0.339902722730002
+SVD/HDBSCAN,Indian defense,c_npmi,-0.07364770043810975
+SVD/HDBSCAN,Indian economy,c_v,0.6125688312358789
+SVD/HDBSCAN,Indian economy,c_umass,-0.3484198820102517
+SVD/HDBSCAN,Indian economy,c_npmi,0.136701086856724
+SVD/HDBSCAN,Indian infrastructure,c_v,0.5361429810032918
+SVD/HDBSCAN,Indian infrastructure,c_umass,-0.07208268588463479
+SVD/HDBSCAN,Indian infrastructure,c_npmi,0.05409897292402037
+SVD/HDBSCAN,Combined,c_v,0.7219431301269442
+SVD/HDBSCAN,Combined,c_umass,-0.5096532616504793
+SVD/HDBSCAN,Combined,c_npmi,0.1589616384843939

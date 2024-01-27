@@ -1,0 +1,10 @@
+Experiment	Precision	Recall	F1_Score
+PCA/KMeans	0.92	0.91	0.91
+UMAP/KMeans	0.91	0.91	0.91
+SVD/KMeans	0.92	0.91	0.91
+PCA/Agg	0.85	0.8	0.8
+UMAP/Agg	0.91	0.91	0.91
+SVD/Agg	0.85	0.78	0.78
+PCA/HDBSCAN			
+UMAP/HDBSCAN			
+SVD/HDBSCAN			
